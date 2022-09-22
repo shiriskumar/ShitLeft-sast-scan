@@ -14,4 +14,4 @@ Scans Terragoat by default
 sh sast_scan.sh https://github.com/we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service.git
 Scans Damn Vulnerable
 
-[![asciicast](https://asciinema.org/a/523067.svg?autoplay=1&loop=1&idleTimeLimit=2)](https://asciinema.org/a/523067?autoplay=1&loop=1&idleTimeLimit=2)
+[![asciicast](https://asciinema.org/a/523073.svg)](https://asciinema.org/a/523073?autoplay=1&loop=1&idleTimeLimit=1)
